@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://imgs.search.brave.com/6ZF1R5qnZ10RsfNgJ8CDxcm4_4O3RgIzLfI4eQJEreU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/aG90ZWxlcy1zaWxr/ZW4uY29tL2NvbnRl/bnQvaW1nc3htbC9n/YWxlcmlhcy9wYW5l/bF9kZXN0YWNhZG9z/bGlzdC8xL3Jlc3Rh/dXJhbnRlLWV0eGFu/aXotMDE1MTc2Lmpw/Zw);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.logo{
+    margin-left: 800px;
+}
+.Titulo{
+    margin-left: 780px;
+    border-color: aquamarine;
+    border-bottom: 2px solid aquamarine;
+    margin-right: 850px;
+    color: rgb(253, 249, 0);
+}
+.Restaurante{
+    margin-left: 100px;
+}
+.fotorestaurante{
+    background-color: rgba(128, 128, 128, 0.493);
+}
+.menu__item{
+    color: black;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.479);
+    font-style: italic;
+    margin-left: 150px;
+    margin-right: 150px;
+
+    
+}
+.menu{
+    list-style-type: none;
+    font-size: larger;
+}
+.footer{
+    position: absolute;
+    bottom: 0%;
+    text-align: right;
+    background-color: rgba(255, 255, 255, 0.288);
+}
+.bebidas{
+    background-color: rgb(0, 0, 0);
+}
