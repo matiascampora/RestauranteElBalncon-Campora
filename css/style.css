@@ -9,12 +9,12 @@ body{
 .logo{
     margin-left: 800px;
 }
-.Titulo{
+.titulo{
     margin-left: 780px;
     border-color: aquamarine;
     border-bottom: 2px solid aquamarine;
     margin-right: 850px;
-    color: rgb(253, 249, 0);
+    color: rgb(0, 0, 0);
 }
 .Restaurante{
     margin-left: 100px;
@@ -46,4 +46,16 @@ body{
 }
 .bebidas{
     background-color: rgb(0, 0, 0);
+}
+header{
+    border-bottom: 2px black solid;
+    margin-bottom: 10px;
+}
+.texto{
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.267);
+    margin-top: 50px;
+}
+.footer{
+    margin-top: 50px;
 }
